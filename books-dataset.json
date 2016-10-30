@@ -1,0 +1,21 @@
+[{
+	"title": "Agile Web Development with Rails 5",
+	"author": "Sam Ruby",
+	"genre": "Programming",
+	"read": false
+}, {
+	"title": "Ruby on Rails Tutorial",
+	"author": "Michael Hartl",
+	"genre": "Programming",
+	"read": false
+}, {
+	"title": "My Family Right or Wrong",
+	"author": "Ephraim Kishon",
+	"genre": "Satire",
+	"read": false
+}, {
+	"title": "Smile drought",
+	"author": "Ephraim Kishon",
+	"genre": "Satire",
+	"read": false
+}]
